@@ -7,7 +7,7 @@ using namespace std;
 bool checkArrays(int arr1[], int arr2[],
 				int n, int m)
 {
-	/
+	
 	if (n != m)
 		return false;
 
@@ -37,5 +37,8 @@ int main()
 		cout << "Equal";
 	else
 		cout << "Not Equal... so sad";
+        cout << "Karunesh";
+        cout << "Karunesh Ashwini";
+
 	return 0;
 }

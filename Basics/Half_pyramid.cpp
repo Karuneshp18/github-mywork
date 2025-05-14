@@ -8,9 +8,6 @@ int main()
     // first for loop is used to identify number of rows
     for (int i = 1; i <= rows; i++) {
        
-        // second for loop is used to identify number of
-        // columns and here the values will be changed
-        // according to the first for loop
         for (int j = 1; j <= i; j++) {
            
             // printing the required pattern

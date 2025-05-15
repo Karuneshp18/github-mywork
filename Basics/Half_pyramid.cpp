@@ -15,6 +15,7 @@ int main()
         }
         cout << "\n";
         //end
+        cout << "bye";
     }
     return 0;
 }

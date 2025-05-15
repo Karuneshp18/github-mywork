@@ -14,6 +14,8 @@ int main()
             cout << "* ";
         }
         cout << "\n";
+        //end
+        cout << "bye";
     }
     return 0;
 }
